@@ -22,5 +22,6 @@ ls - lists all files or directories usually in the current working directory
 
 /* add screen short here*/
 
+
 In the end  the command will display a list of all the files with a specific occurrence, which is all the files ending with the extension .c. All the other files will be ignored, this is really useful when you are trying to search for specific files.
 
